@@ -1,8 +1,1 @@
-Downloading the GEO Datasets, platform annotation files and using GEOQuery package in R.
-Generated the expression matrices and metadata using exprs() and pData().
-Created groups for Healthy Control and MS condition.
-Limma for fitting into linear model and generated significant DEGS.
-Based on the logFC value threshold, generated upregulated and down regulated genes.
-Using the annotation packages (different package for different platform annotation), converted the probeIDs to Gene Symblols.
-Using clusterProfiler, performed Gene Ontology Biological Process and KEGG pathway enrichment.
-Applied Machine Learning Modelling approach using Python.
+
