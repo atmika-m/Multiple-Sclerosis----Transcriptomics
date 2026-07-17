@@ -1,0 +1,13 @@
+This is a comparative study carried out between the healthy ans MS (Multiple Sclerosis) condition.
+Identification of Differentially Expressed Genes between the healthy condition and disease condition followed by the pathway analysis.
+Application of Machine Learning Approaches for additional predicted values and comparision between the statistically generated and the ML - Model based genes.
+Validation of the obtained Significant DEGs with an independent dataset.
+
+#Tools Used
+NCBI GEO Database
+R
+G:Profiler
+NCBI GEO2R
+Python
+STRINGdb
+Cytoscape
